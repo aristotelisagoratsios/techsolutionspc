@@ -1,0 +1,43 @@
+#pwebbox281_box {
+    max-width: 280px;
+}
+
+#pwebbox281_toggler {
+    background-color: #133783;
+    background-image: none;
+    border-color: rgb(0, 25, 101);
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 97px
+}
+
+#pwebbox281_toggler .pwebbox-toggler-link {
+    text-decoration: none;
+    background-color: #133783;
+    background-image: none;
+    border-color: rgb(0, 25, 101);
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 97px
+}
+
+#pwebbox281_box,
+#pwebbox281_box label,
+#pwebbox281_box input,
+#pwebbox281_box textarea,
+#pwebbox281_box select,
+#pwebbox281_box button,
+#pwebbox281_box .btn {
+    font-size: 13px;
+    font-family: Open Sans, sans-serif
+}
+
+#pwebbox281_box .pwebbox-content {
+    color: #000000
+}
+
+#pwebbox281_container {
+    background-color: #98a8c7
+}
